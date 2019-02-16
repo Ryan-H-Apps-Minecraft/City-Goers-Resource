@@ -9,7 +9,7 @@
   "modules": [
     {
       "description": "Make your city more fun with these city goers",
-      "type": "resource",
+      "type": "resources",
       "uuid":  "3d76a566-80c6-417c-9c34-84dfa71c4b2a",
       "version": [0, 0, 1]
     }
