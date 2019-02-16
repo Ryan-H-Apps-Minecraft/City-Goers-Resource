@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Make your city more fun with these city goers",
+    "name": "City Goers",
+    "uuid": "d9ccc467-e233-4816-a817-1e4ea6cb8e75",
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "description": "Make your city more fun with these city goers",
+      "type": "resource",
+      "uuid":  "3d76a566-80c6-417c-9c34-84dfa71c4b2a",
+      "version": [0, 0, 1]
+    }
+  ]
+}
